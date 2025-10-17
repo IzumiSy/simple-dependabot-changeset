@@ -1,6 +1,8 @@
 # Add Changeset to Dependabot PRs
 
-Automatically add a changeset to Dependabot pull requests. This GitHub Action helps streamline your dependency update workflow by automatically creating changesets for PRs created by Dependabot.
+Automatically add a changeset to Dependabot pull requests. 
+
+This GitHub Action helps streamline your dependency update workflow by automatically creating changesets for PRs created by Dependabot.
 
 ## Features
 
@@ -58,6 +60,10 @@ jobs:
 
 - Your project must be using [Changesets](https://github.com/changesets/changesets)
 - The workflow needs `contents: write` permission to commit changesets
+
+## Usecase
+
+- [IzumiSy/kyrage](https://github.com/IzumiSy/kyrage/blob/main/.github/workflows/dependabot-changeset.yaml)
 
 ## License
 
