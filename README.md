@@ -63,7 +63,9 @@ jobs:
 
 ## Usecase
 
-- [IzumiSy/kyrage](https://github.com/IzumiSy/kyrage/blob/main/.github/workflows/dependabot-changeset.yaml)
+- [IzumiSy/kyrage](https://github.com/IzumiSy/kyrage/)
+- [IzumiSy/mcp-duckdb-memory-server](https://github.com/IzumiSy/mcp-duckdb-memory-server)
+- [IzumiSy/mcp-universal-db-client](https://github.com/IzumiSy/mcp-universal-db-client)
 
 ## License
 
